@@ -1,0 +1,6 @@
+pytest
+uvicorn[standard]
+face_recognition
+fastapi
+coverage
+psycopg2-binary

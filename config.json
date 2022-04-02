@@ -1,0 +1,21 @@
+
+{
+    "database": {
+        "host": "127.0.0.1",
+        "port": "5432",
+        "user": "root",
+        "password": "root",
+        "databaseName": "postgres",
+        "tableName": "phase"
+    },
+    "server": {
+        "host": "127.0.0.1",
+        "port": 8080,
+        "debug": true
+    },
+
+    "log": {
+        "level": "debug",
+        "location": "logs/logs.log"
+    }
+}

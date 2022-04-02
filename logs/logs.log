@@ -1,0 +1,182 @@
+2022-03-21 13:42:29,242 DEBUG Using selector: EpollSelector
+2022-03-21 13:42:29,276 INFO Started server process [209]
+2022-03-21 13:42:29,277 INFO Waiting for application startup.
+2022-03-21 13:42:29,278 INFO Application startup complete.
+2022-03-21 13:42:29,279 INFO Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+2022-03-21 13:43:54,924 DEBUG Calling on_part_begin with no data
+2022-03-21 13:43:54,926 DEBUG Calling on_header_field with data[54:73]
+2022-03-21 13:43:54,929 DEBUG Calling on_header_value with data[75:119]
+2022-03-21 13:43:54,931 DEBUG Calling on_header_end with no data
+2022-03-21 13:43:54,932 DEBUG Calling on_header_field with data[121:133]
+2022-03-21 13:43:54,934 DEBUG Calling on_header_value with data[135:150]
+2022-03-21 13:43:54,935 DEBUG Calling on_header_end with no data
+2022-03-21 13:43:54,937 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:43:54,939 DEBUG Calling on_part_data with data[154:18590]
+2022-03-21 13:43:54,941 DEBUG Calling on_part_end with no data
+2022-03-21 13:43:54,944 DEBUG Calling on_end with no data
+2022-03-21 13:43:55,081 DEBUG Importing BlpImagePlugin
+2022-03-21 13:43:55,084 DEBUG Importing BmpImagePlugin
+2022-03-21 13:43:55,084 DEBUG Importing BufrStubImagePlugin
+2022-03-21 13:43:55,086 DEBUG Importing BlpImagePlugin
+2022-03-21 13:43:55,087 DEBUG Importing CurImagePlugin
+2022-03-21 13:43:55,088 DEBUG Importing DcxImagePlugin
+2022-03-21 13:43:55,088 DEBUG Importing BmpImagePlugin
+2022-03-21 13:43:55,090 DEBUG Importing BufrStubImagePlugin
+2022-03-21 13:43:55,090 DEBUG Importing DdsImagePlugin
+2022-03-21 13:43:55,091 DEBUG Importing CurImagePlugin
+2022-03-21 13:43:55,091 DEBUG Importing EpsImagePlugin
+2022-03-21 13:43:55,092 DEBUG Importing DcxImagePlugin
+2022-03-21 13:43:55,096 DEBUG Importing DdsImagePlugin
+2022-03-21 13:43:55,096 DEBUG Importing FitsStubImagePlugin
+2022-03-21 13:43:55,098 DEBUG Importing EpsImagePlugin
+2022-03-21 13:43:55,099 DEBUG Importing FliImagePlugin
+2022-03-21 13:43:55,100 DEBUG Importing FpxImagePlugin
+2022-03-21 13:43:55,101 DEBUG Importing FitsStubImagePlugin
+2022-03-21 13:43:55,102 DEBUG Importing FliImagePlugin
+2022-03-21 13:43:55,103 DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2022-03-21 13:43:55,104 DEBUG Importing FtexImagePlugin
+2022-03-21 13:43:55,104 DEBUG Importing FpxImagePlugin
+2022-03-21 13:43:55,105 DEBUG Importing GbrImagePlugin
+2022-03-21 13:43:55,106 DEBUG Importing GifImagePlugin
+2022-03-21 13:43:55,106 DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2022-03-21 13:43:55,106 DEBUG Importing GribStubImagePlugin
+2022-03-21 13:43:55,107 DEBUG Importing FtexImagePlugin
+2022-03-21 13:43:55,108 DEBUG Importing Hdf5StubImagePlugin
+2022-03-21 13:43:55,108 DEBUG Importing GbrImagePlugin
+2022-03-21 13:43:55,109 DEBUG Importing IcnsImagePlugin
+2022-03-21 13:43:55,111 DEBUG Importing GifImagePlugin
+2022-03-21 13:43:55,112 DEBUG Importing GribStubImagePlugin
+2022-03-21 13:43:55,113 DEBUG Importing Hdf5StubImagePlugin
+2022-03-21 13:43:55,114 DEBUG Importing IcoImagePlugin
+2022-03-21 13:43:55,116 DEBUG Importing IcnsImagePlugin
+2022-03-21 13:43:55,117 DEBUG Importing ImImagePlugin
+2022-03-21 13:43:55,120 DEBUG Importing ImtImagePlugin
+2022-03-21 13:43:55,120 DEBUG Importing IcoImagePlugin
+2022-03-21 13:43:55,121 DEBUG Importing IptcImagePlugin
+2022-03-21 13:43:55,121 DEBUG Importing ImImagePlugin
+2022-03-21 13:43:55,122 DEBUG Importing JpegImagePlugin
+2022-03-21 13:43:55,123 DEBUG Importing Jpeg2KImagePlugin
+2022-03-21 13:43:55,123 DEBUG Importing McIdasImagePlugin
+2022-03-21 13:43:55,124 DEBUG Importing ImtImagePlugin
+2022-03-21 13:43:55,124 DEBUG Importing MicImagePlugin
+2022-03-21 13:43:55,126 DEBUG Importing IptcImagePlugin
+2022-03-21 13:43:55,127 DEBUG Importing JpegImagePlugin
+2022-03-21 13:43:55,127 DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2022-03-21 13:43:55,128 DEBUG Importing Jpeg2KImagePlugin
+2022-03-21 13:43:55,129 DEBUG Importing MpegImagePlugin
+2022-03-21 13:43:55,129 DEBUG Importing McIdasImagePlugin
+2022-03-21 13:43:55,130 DEBUG Importing MpoImagePlugin
+2022-03-21 13:43:55,130 DEBUG Importing MicImagePlugin
+2022-03-21 13:43:55,132 DEBUG Importing MspImagePlugin
+2022-03-21 13:43:55,133 DEBUG Importing PalmImagePlugin
+2022-03-21 13:43:55,133 DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2022-03-21 13:43:55,134 DEBUG Importing MpegImagePlugin
+2022-03-21 13:43:55,135 DEBUG Importing PcdImagePlugin
+2022-03-21 13:43:55,135 DEBUG Importing MpoImagePlugin
+2022-03-21 13:43:55,136 DEBUG Importing PcxImagePlugin
+2022-03-21 13:43:55,137 DEBUG Importing MspImagePlugin
+2022-03-21 13:43:55,137 DEBUG Importing PdfImagePlugin
+2022-03-21 13:43:55,138 DEBUG Importing PalmImagePlugin
+2022-03-21 13:43:55,140 DEBUG Importing PcdImagePlugin
+2022-03-21 13:43:55,141 DEBUG Importing PcxImagePlugin
+2022-03-21 13:43:55,143 DEBUG Importing PdfImagePlugin
+2022-03-21 13:43:55,155 DEBUG Importing PixarImagePlugin
+2022-03-21 13:43:55,156 DEBUG Importing PngImagePlugin
+2022-03-21 13:43:55,158 DEBUG Importing PpmImagePlugin
+2022-03-21 13:43:55,159 DEBUG Importing PsdImagePlugin
+2022-03-21 13:43:55,160 DEBUG Importing SgiImagePlugin
+2022-03-21 13:43:55,161 DEBUG Importing PixarImagePlugin
+2022-03-21 13:43:55,161 DEBUG Importing SpiderImagePlugin
+2022-03-21 13:43:55,162 DEBUG Importing PngImagePlugin
+2022-03-21 13:43:55,162 DEBUG Importing SunImagePlugin
+2022-03-21 13:43:55,162 DEBUG Importing PpmImagePlugin
+2022-03-21 13:43:55,163 DEBUG Importing TgaImagePlugin
+2022-03-21 13:43:55,163 DEBUG Importing PsdImagePlugin
+2022-03-21 13:43:55,164 DEBUG Importing TiffImagePlugin
+2022-03-21 13:43:55,165 DEBUG Importing WebPImagePlugin
+2022-03-21 13:43:55,165 DEBUG Importing SgiImagePlugin
+2022-03-21 13:43:55,166 DEBUG Importing SpiderImagePlugin
+2022-03-21 13:43:55,166 DEBUG Importing WmfImagePlugin
+2022-03-21 13:43:55,166 DEBUG Importing SunImagePlugin
+2022-03-21 13:43:55,167 DEBUG Importing XbmImagePlugin
+2022-03-21 13:43:55,167 DEBUG Importing TgaImagePlugin
+2022-03-21 13:43:55,168 DEBUG Importing TiffImagePlugin
+2022-03-21 13:43:55,168 DEBUG Importing WebPImagePlugin
+2022-03-21 13:43:55,168 DEBUG Importing XpmImagePlugin
+2022-03-21 13:43:55,170 DEBUG Importing WmfImagePlugin
+2022-03-21 13:43:55,170 DEBUG Importing XVThumbImagePlugin
+2022-03-21 13:43:55,171 DEBUG Importing XbmImagePlugin
+2022-03-21 13:43:55,173 DEBUG Importing XpmImagePlugin
+2022-03-21 13:43:55,174 DEBUG Importing XVThumbImagePlugin
+2022-03-21 13:43:55,259 DEBUG Inserted face
+2022-03-21 13:43:55,262 DEBUG Inserted face
+2022-03-21 13:43:55,265 DEBUG Inserted face
+2022-03-21 13:45:00,647 DEBUG Calling on_part_begin with no data
+2022-03-21 13:45:00,652 DEBUG Calling on_header_field with data[54:73]
+2022-03-21 13:45:00,654 DEBUG Calling on_header_value with data[75:102]
+2022-03-21 13:45:00,655 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:00,657 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:45:00,659 DEBUG Calling on_part_data with data[106:109]
+2022-03-21 13:45:00,661 DEBUG Calling on_part_end with no data
+2022-03-21 13:45:00,663 DEBUG Calling on_part_begin with no data
+2022-03-21 13:45:00,665 DEBUG Calling on_header_field with data[165:184]
+2022-03-21 13:45:00,668 DEBUG Calling on_header_value with data[186:205]
+2022-03-21 13:45:00,669 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:00,671 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:45:00,673 DEBUG Calling on_part_data with data[209:210]
+2022-03-21 13:45:00,675 DEBUG Calling on_part_end with no data
+2022-03-21 13:45:00,677 DEBUG Calling on_part_begin with no data
+2022-03-21 13:45:00,679 DEBUG Calling on_header_field with data[266:285]
+2022-03-21 13:45:00,681 DEBUG Calling on_header_value with data[287:337]
+2022-03-21 13:45:00,682 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:00,684 DEBUG Calling on_header_field with data[339:351]
+2022-03-21 13:45:00,686 DEBUG Calling on_header_value with data[353:363]
+2022-03-21 13:45:00,687 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:00,689 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:45:00,691 DEBUG Calling on_part_data with data[367:8797]
+2022-03-21 13:45:00,693 DEBUG Calling on_part_end with no data
+2022-03-21 13:45:00,695 DEBUG Calling on_end with no data
+2022-03-21 13:45:00,704 DEBUG search_faces endpoint called
+2022-03-21 13:45:01,097 DEBUG Fetched faces
+2022-03-21 13:45:53,629 DEBUG Calling on_part_begin with no data
+2022-03-21 13:45:53,632 DEBUG Calling on_header_field with data[54:73]
+2022-03-21 13:45:53,634 DEBUG Calling on_header_value with data[75:102]
+2022-03-21 13:45:53,635 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:53,637 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:45:53,638 DEBUG Calling on_part_data with data[106:109]
+2022-03-21 13:45:53,642 DEBUG Calling on_part_end with no data
+2022-03-21 13:45:53,643 DEBUG Calling on_part_begin with no data
+2022-03-21 13:45:53,645 DEBUG Calling on_header_field with data[165:184]
+2022-03-21 13:45:53,647 DEBUG Calling on_header_value with data[186:205]
+2022-03-21 13:45:53,649 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:53,650 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:45:53,652 DEBUG Calling on_part_data with data[209:210]
+2022-03-21 13:45:53,653 DEBUG Calling on_part_end with no data
+2022-03-21 13:45:53,656 DEBUG Calling on_part_begin with no data
+2022-03-21 13:45:53,658 DEBUG Calling on_header_field with data[266:285]
+2022-03-21 13:45:53,660 DEBUG Calling on_header_value with data[287:331]
+2022-03-21 13:45:53,662 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:53,664 DEBUG Calling on_header_field with data[333:345]
+2022-03-21 13:45:53,665 DEBUG Calling on_header_value with data[347:357]
+2022-03-21 13:45:53,667 DEBUG Calling on_header_end with no data
+2022-03-21 13:45:53,668 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:45:53,670 DEBUG Calling on_part_data with data[361:5556]
+2022-03-21 13:45:53,672 DEBUG Calling on_part_end with no data
+2022-03-21 13:45:53,674 DEBUG Calling on_end with no data
+2022-03-21 13:45:53,678 DEBUG search_faces endpoint called
+2022-03-21 13:45:53,880 DEBUG Fetched faces
+2022-03-21 13:46:33,532 DEBUG Calling on_part_begin with no data
+2022-03-21 13:46:33,533 DEBUG Calling on_header_field with data[54:73]
+2022-03-21 13:46:33,533 DEBUG Calling on_header_value with data[75:100]
+2022-03-21 13:46:33,534 DEBUG Calling on_header_end with no data
+2022-03-21 13:46:33,534 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:46:33,535 DEBUG Calling on_part_data with data[104:107]
+2022-03-21 13:46:33,535 DEBUG Calling on_part_end with no data
+2022-03-21 13:46:33,536 DEBUG Calling on_part_begin with no data
+2022-03-21 13:46:33,536 DEBUG Calling on_header_field with data[163:182]
+2022-03-21 13:46:33,537 DEBUG Calling on_header_value with data[184:209]
+2022-03-21 13:46:33,537 DEBUG Calling on_header_end with no data
+2022-03-21 13:46:33,538 DEBUG Calling on_headers_finished with no data
+2022-03-21 13:46:33,539 DEBUG Calling on_part_data with data[213:214]
+2022-03-21 13:46:33,540 DEBUG Calling on_part_end with no data
+2022-03-21 13:46:33,541 DEBUG Calling on_end with no data
